@@ -63,7 +63,7 @@ A web portfolio implemented in Angular:
 
 ### **Professional Experience**
 ---
-### **Founding Engineer - RiguSports**
+#### **Founding Engineer - RiguSports**
 *Remote | September 2025 - present*
 - Architected a full stack, multi-tenant, microservice oriented system with future AI
 integrations in mind
