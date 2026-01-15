@@ -63,20 +63,27 @@ A web portfolio implemented in Angular:
 
 ### **Professional Experience**
 ---
-#### **Software Engineer – ECW Network & IT Solutions**
-*Deerfield Beach, FL | June 2025 – Present*
+### **Founding Engineer - RiguSports**
+*Remote | September 2025 - present*
+- Architected a full stack, multi-tenant, microservice oriented system with future AI
+integrations in mind
+- Developed microservices using Golang with the Gorm and Gin framework with Postgres
+- Developed a multi-tenant frontend using the microservices in angular
+- **Stack**: Golang, Gin, Gorm, Angular, PostgreSQL, REST APIs, Microservices Architecture, Multi-Tenancy
+
+#### **Software Engineer - ECW Network & IT Solutions**
+*Deerfield Beach, FL | June 2025 - August 2025*
 - Automated business workflows using C# and .NET, reducing manual labor
 - Built a multi-tenant uptime monitoring system using Go, C#, and Angular with secure RBAC and Entra ID
 - Leveraged Azure Cosmos DB, Azure Functions, and networking protocols (ICMP, TCP, HTTPS)
 - **Stack**: C#, Go, Angular, Azure, Entra ID, REST APIs
 
-#### **Capstone Project – Arizona State University**
-*Arizona State University | Jan 2025 – May 2025*
+#### **Capstone Project - Arizona State University**
+*Arizona State University | Jan 2025 - May 2025*
 - Developed a full-stack platform using Next.js and TypeScript to streamline course admin tasks for faculty
 - Designed APIs, managed SQL databases, and implemented secure auth
 - Mentored junior team members and incorporated agile sprints using Taiga
 - **Stack**: Next.js, TypeScript, Node.js, SQL, Git, Taiga
-
 
 
 ##  Education & Experience
