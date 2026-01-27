@@ -72,7 +72,7 @@ integrations in mind
 - **Stack**: Golang, Gin, Gorm, Angular, PostgreSQL, REST APIs, Microservices Architecture, Multi-Tenancy
 
 #### **Software Engineer - ECW Network & IT Solutions**
-*Deerfield Beach, FL | June 2025 - August 2025*
+*Deerfield Beach, FL | June 2025 - September 2025*
 - Automated business workflows using C# and .NET, reducing manual labor
 - Built a multi-tenant uptime monitoring system using Go, C#, and Angular with secure RBAC and Entra ID
 - Leveraged Azure Cosmos DB, Azure Functions, and networking protocols (ICMP, TCP, HTTPS)
