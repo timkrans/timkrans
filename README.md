@@ -98,7 +98,7 @@ integrations in mind
 
 ##  GitHub Stats
 
-![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timkrans&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false)
+![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timkrans&hide_title=false&hide_rank=true&show_icons=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false)
 
 ##  Current Focus
 
