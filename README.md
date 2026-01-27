@@ -88,7 +88,7 @@ integrations in mind
 
 ##  Education & Experience
 
-- **Computer Science Student** at Arizona State University
+- **Computer Science (Software Engineering)** at Arizona State University
 - **Projects**: AI/ML implementations, neural network development, predictive modeling, intelligent systems
 
 ##  Connect With Me
