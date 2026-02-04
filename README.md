@@ -1,5 +1,5 @@
 #  Hi, I'm Timothy Kransberger
-##  Software Engineer
+##  Software Engineer | Full Stack Developer
 
 Software engineer with a passion for AI and automation systems development, with experience in full stack engineering, workflow automation and a growing portfolio of machine learning projects. Proficient in C, C#, TypeScript, Java, Go, Python with hands on experience building scalable web applications and integrating APIs.
 
