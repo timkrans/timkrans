@@ -107,10 +107,10 @@ integrations in mind
 
 ##  Current Focus
 
--  **Job Search**: Looking for AI/ML engineering and research opportunities
+-  **Job Search**: Looking for Software Engineering and Full Stack Developer
 -  **Learning**: Advanced deep learning, computer vision, and NLP techniques
 -  **Building**: Intelligent systems and ML-powered applications
--  **Researching**: Neural network architectures and AI model optimization
+-  **Researching**: Building agents/offline model interfaces, Neural network architectures and AI model optimization
 -  **Exploring**: Large Language Models, Computer Vision, and Reinforcement Learning
 
 ---
