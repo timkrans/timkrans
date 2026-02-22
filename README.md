@@ -35,7 +35,7 @@ Software engineer with a passion for AI and automation systems development, with
 ##  Featured Projects
 
 ### **Context-Aware AI Platform**
-Full Stack System multi repo application Built with a Vite frontend and Go backend.
+Full Stack multi repo application Built with a Vite frontend and Go backend.
 - Memory Retrieval: Encodes and persists user memories for personalized AI interactions.
 - Contextual AI: Provides dynamic, context-aware experiences with personalized responses.
 - Retrieval-Augmented Generation (RAG): Implements advanced document ingestion and semantic querying.
