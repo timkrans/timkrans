@@ -34,21 +34,22 @@ Software engineer with a passion for AI and automation systems development, with
 
 ##  Featured Projects
 
+### **Context-Aware AI Platform**
+Full Stack System multi repo application Built with a Vite frontend and Go backend.
+- Memory Retrieval: Encodes and persists user memories for personalized AI interactions.
+- Contextual AI: Provides dynamic, context-aware experiences with personalized responses.
+- Retrieval-Augmented Generation (RAG): Implements advanced document ingestion and semantic querying.
+- Optional Reasoning Model: Integrates a reasoning model for enhanced AI decision-making.
+- Scalable Architecture: Supports extensible APIs for seamless integrations.
+- Flexible Deployment: Containerized deployment via Docker for easy scaling and management.
+- Memory Efficiency: Optimized for effective memory storage and retrieval processes.
+
 ### **macOS Command Agent (Go)** 
 Built a CLI tool using AI to convert natural language into safe macOS commands. 
 - Integrated with local/remote LLMs, enforced command whitelisting, and implemented a custom .env loader and test suite.
 - Integrated with AI services (Ollama, Hugging Face, local models) for natural language command interpretation
 - Whitelisted and sandboxed over 40 macOS commands to prevent dangerous execution (e.g., sudo, rm -rf /)
 - Designed a JSON-based AI-to-agent interface with command reasoning, confidence scoring, and explanations
-
-### **Neural Network Implementation**
-A custom neural network implementation in **C++** from scratch:
-- Backpropagation algorithm for training
-- Sigmoid activation functions and derivatives
-- Model persistence and loading capabilities
-- Mathematical operations learning (addition)
-- Memory-efficient design with custom weight initialization
-- Real-time training and inference capabilities
 
 ### **AI-Powered Crypto Trading Bot**
 A machine learning-powered cryptocurrency analysis tool in **Python**:
